@@ -1,0 +1,8 @@
+.Header_Toolbar {
+  display: flex;
+  background: red;
+}
+.Header_Toolbar .Header_Buttons {
+  align-items: 30%;
+  color: pink;
+}
